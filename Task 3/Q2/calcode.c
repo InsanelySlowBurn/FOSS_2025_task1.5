@@ -21,5 +21,7 @@ int mian(){
 				printf("%f/n",a/b);
 			}
 			break;
+	
+	}
 	return 0;
 }
