@@ -1,0 +1,1 @@
+calculator is a devise to solve the numerical problem easily with the help of machines. it just makes calculetions fasters 
